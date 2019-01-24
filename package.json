@@ -1,0 +1,28 @@
+{
+  "name": "ansel",
+  "version": "0.0.1",
+  "description": "Simple photography portfolios",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest --forceExit --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preist/ansel.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "typescript",
+    "photography",
+    "portfolio",
+    "express",
+    "react"
+  ],
+  "author": "Igor Putina",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/preist/ansel/issues"
+  },
+  "homepage": "https://github.com/preist/ansel#readme"
+}
