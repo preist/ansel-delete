@@ -28,3 +28,6 @@ Session.vim
 tags
 # Persistent undo
 [._]*.un~
+
+# Dist
+dist/
